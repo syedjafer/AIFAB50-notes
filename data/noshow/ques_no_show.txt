@@ -1,0 +1,24 @@
+# Questions
+
+
+1. Where do most patients come from (Neighbourhood)?
+2. Where do most poor patients come from (Neighbourhood)?
+3. Where do most non-awarded scholarship patients come from(Neighbourhood)?
+4. Common Age
+5. Common disease
+6. Total number of patients that should have attended and total number of patients that actually attended
+7. Average percentage of people that attend daily
+8. Number of people that schedule daily
+9. What is the most common day of scheduling an appointment?
+10. What is the most common day of an appointment?
+11. What is the average duration between scheduling and the appointment?
+12. Frequency of scheduling appointments
+13. Is there any Gender difference in having a patient be with status Show / No-Show?
+14. Is there any Age difference in having a patient be with status Show / No- Show?
+15. Is there any Age difference along with Gender difference with the status of Show / NoShow?
+16. On which weekday/day/month maximum appointments are getting finalized with Show status?
+17. Is there any specific medical condition that is driving the patient(Male/Female) to go for the doctor's appointment?
+18. Are the digital /social media reminders are helping the patients to take doctor's appointments?
+19. Is Scholarship from the government helping patients for a good turnaround for physician visits?
+20. Which neighborhood regions actually have higher appointments with physicians?
+21. What factors are important for us to know in order to predict if a patient will show up for their scheduled time?
